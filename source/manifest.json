@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Never Give Up",
+    "version": "1.0.0",
+    
+    "description": "Get a random motivational quotes.",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "ext-logo.png"
+    },
+    "icons": {
+        "128": "ext-logo.png"
+    },
+    "permissions": ["activeTab"]
+}
+

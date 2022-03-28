@@ -1,0 +1,25 @@
+body {
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 18px;
+    color: rgb(137, 137, 184);
+    border-radius: 6px;
+    /* border: 1px solid lightblue; */
+    padding: 10px;
+}
+
+
+/* 
+<!------------------------------------------------------------------
+Developer- Keshav Kumar 
+Email- keshavkumar9431@gmail.com
+Github- https://github.com/keshav-fixed-404 
+-------------------------------------------------------------------> */
